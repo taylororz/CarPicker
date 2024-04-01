@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Car Picker</string>
+    <string name="pick_car">PICK A BRAND</string>
+    <string-array name="brand">
+        <item>Toyota</item>
+        <item>VW</item>
+        <item>Nissan</item>
+    </string-array>
+    <string name="toast_no_cars">This brand has no models. Pick another!</string>
+</resources>
